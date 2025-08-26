@@ -32,13 +32,12 @@ The interactive **Power BI dashboard** provides insights into **internet penetra
 ---
 
 ## 📸 Dashboard Preview
-## 📸 Dashboard Preview
 
-![Dashboard Preview 1](Screenshot Preview 1.png)
-![Dashboard Preview 2](Screenshot Preview 2.png)
-![Dashboard Preview 3](Screenshot Preview 3.png)
-![Dashboard Preview 3](Screenshot Preview 4.png)
-![Dashboard Preview 3](Screenshot Preview 5.png)
+![Dashboard Preview 1](screenshots/dashboard_preview_1.png)
+![Dashboard Preview 2](screenshots/dashboard_preview_2.png)
+![Dashboard Preview 3](screenshots/dashboard_preview_3.png)
+![Dashboard Preview 4](screenshots/dashboard_preview_4.png)
+![Dashboard Preview 5](screenshots/dashboard_preview_5.png)
 
 
 ---
